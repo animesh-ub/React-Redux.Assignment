@@ -21,6 +21,5 @@ export const Shop = () => {
         Update Balance
         <button className='btn btn-primary'onClick={()=>withdrawMoney(100)}> - </button>
     </div>
-   
   )
 }
